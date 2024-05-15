@@ -1,13 +1,9 @@
-// Final Project 
-// PublicationSelector
-// File PublicationSelector.h
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-//
-/////////////////////////////////////////////////////////////////
+/*******************************************************
+ * Pouya Shakiba
+ * pshakiba@myseneca.ca
+ * 2024/05/15
+ *******************************************************/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstring>

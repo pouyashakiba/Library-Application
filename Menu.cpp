@@ -1,5 +1,8 @@
-//name:pouya shakiba email:pshakib@myseneca.com id:117389221 Date: 15/7/2023
-//I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+/*******************************************************
+ * Pouya Shakiba
+ * pshakiba@myseneca.ca
+ * 2024/05/15
+ *******************************************************/
 
 #define _CRT_SECURE_NO_WARNINGS
 

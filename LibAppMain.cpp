@@ -1,13 +1,9 @@
-// Final Project
-// Library Application Tester
-// File  LibAppMain.cpp
-// Version 1.0
-// Author   Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-//
-/////////////////////////////////////////////////////////////////
+/*******************************************************
+ * Pouya Shakiba
+ * pshakiba@myseneca.ca
+ * 2024/05/15
+ *******************************************************/
+
 #include <fstream>
 #include <iostream>
 #include "LibApp.h"
